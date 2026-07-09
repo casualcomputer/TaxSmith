@@ -158,14 +158,14 @@ Minimum attribution:
   repository.
 - Do not present this project as an official Canada Revenue Agency service.
 
-Suggested BibTeX, replacing `<REPO_URL>` with the canonical published URL:
+Suggested BibTeX:
 
 ```bibtex
 @misc{taxsmith_cra_corpus_2026,
   title        = {Taxsmith Canadian Tax Corpus: CRA Public Tax Publications in Markdown},
   author       = {Luan, Henry},
   year         = {2026},
-  howpublished = {\url{<REPO_URL>}},
+  howpublished = {\url{https://github.com/casualcomputer/TaxSmith}},
   note         = {Converted corpus generated from public Canada Revenue Agency and Canada.ca source materials}
 }
 ```
