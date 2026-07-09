@@ -30,6 +30,43 @@ The key manifest fields are:
 - `document_type`: `publication`, `technical_publication`, `manual`, or `video_transcript`.
 - `archived`: inferred from title/path when Canada.ca labels the page as archived.
 
+## Interpreting The Content
+
+Not every document has the same retrieval value. Treat the corpus as a structured
+domain collection, not as one flat pile of equally authoritative text.
+
+| Content type | Useful for | Use cautiously for |
+| --- | --- | --- |
+| Technical publications | Income tax interpretation, professional research, source-backed explanations. | Current-law answers when `archived=true` or the document has been replaced. |
+| Manuals | Audit process, compliance workflows, documentation expectations, CRA administrative practice. | Statutory interpretation without checking legislation and current CRA guidance. |
+| Forms/publications | General taxpayer guidance, payroll/GST/HST lookup, program discovery, examples, form names. | High-stakes technical conclusions where a folio, circular, bulletin, manual, statute, or regulation is more appropriate. |
+| Multimedia transcripts | Plain-language explanations, examples, user phrasing, outreach-style summaries. | Final authority for complex tax, audit, objection, or compliance positions. |
+| Archived material | Historical policy, deprecated guidance, comparison, legal-history context. | Current answers unless explicitly labelled as historical or superseded. |
+
+Signals that are usually useful for content analysis and indexing:
+
+- Headings and subheadings, especially folio or manual section hierarchy.
+- Defined terms, eligibility rules, dates, rates, thresholds, examples, and
+  tables.
+- Document family, document type, archive status, last-modified date, and source
+  URL.
+- Repeated document identifiers such as folio numbers, IC/IT/ITTN identifiers,
+  form numbers, and payroll table province codes.
+
+Signals that are often less useful for answer generation:
+
+- Navigation text, generic Canada.ca service links, contact blocks, and page
+  boilerplate.
+- Catalogue wrapper pages that point to a publication but do not contain much
+  substantive guidance.
+- Duplicated intro/outro text across pages.
+- Transcript filler where it does not carry policy, examples, or definitions.
+
+For production RAG, preserve lower-value text in the raw corpus but consider
+downweighting it through chunk filters, reranking, or source-family preferences.
+The raw corpus should stay broad; the retrieval policy should decide what is
+important for a specific answer.
+
 ## Framework Notes
 
 These notes distinguish production RAG products from library loaders. Product UIs
@@ -153,6 +190,19 @@ framework has strong metadata filtering and reranking. A useful default split is
 For tax work, set retrieval preferences so manuals and technical publications
 rank above video transcripts and general explainer pages when the query is
 technical or procedural.
+
+## Content Analysis Patterns
+
+Common analysis workflows:
+
+| Question | Useful input | Suggested method |
+| --- | --- | --- |
+| What does the corpus cover? | `exports/documents.csv` | Pivot by `source_family`, `document_type`, and `archived`. |
+| Which materials are current versus historical? | `exports/documents.jsonl` or CSV | Filter `archived`, then sample titles and source URLs. |
+| Which documents are likely too large for one chunk? | `exports/documents.csv` | Sort by `bytes` and create document-type-specific chunking rules. |
+| Which sources should answer a technical tax query? | JSONL metadata plus text | Rank `technical_publication` and `manual` above `publication`; rank `video_transcript` lower unless the query asks for a plain-language explanation. |
+| Can an answer be cited? | Any indexed chunks | Require `source`, `title`, `corpus_path`, and heading trail on every chunk. |
+| Are upload batches complete? | `documents.csv` | Track ingestion status by `id` or `corpus_path`. |
 
 ## Chunking Guidance
 

@@ -1,6 +1,6 @@
 # Taxsmith
 
-Authority-aware Canadian tax corpus and retrieval workflow prototype.
+Authority-aware Canadian tax corpus for RAG, agents, and content analysis.
 
 Taxsmith is being shaped as an open corpus repo for public Canadian tax source
 materials. The goal is simple: keep the raw converted documents easy to inspect,
@@ -9,8 +9,10 @@ workflows without first reverse-engineering Canada.ca.
 
 ## What To Use
 
-Start with `corpus/`. The older `docs/` and `data/` folders are scrape outputs
-and staging material; `corpus/` is the normalized raw data layout.
+Start with `corpus/`. It is the normalized raw Markdown layout, arranged by
+public source family so humans and recursive loaders can browse it naturally.
+Use `exports/` when a RAG product or ingestion script needs flat files, plain
+text, JSONL, or CSV.
 
 ```text
 corpus/
@@ -38,6 +40,65 @@ Current generated corpus:
 | `corpus/cra/tax/technical-information/income-tax/current-publications/` | 149 | Income tax folios, information circulars, interpretation bulletins, and technical news. |
 | `corpus/cra/tax/technical-information/compliance-manuals-policies/` | 2 | Income Tax Audit Manual and Large Business Audit Manual. |
 | `corpus/cra/multimedia/` | 125 | CRA video transcripts from business, individual, and charity galleries. |
+
+## Folder Guide
+
+| Folder or file | What it contains | Why it matters | Watch-outs |
+| --- | --- | --- | --- |
+| `corpus/cra/forms-publications/` | General CRA forms/publications pages, guides, notices, memoranda, GST/HST memoranda, payroll tables, and related publication pages. | Broad coverage and good recall for common taxpayer, payroll, GST/HST, benefit, and compliance topics. | Some files are catalogue-like or table-heavy. Treat them as retrieval material, not as a curated legal hierarchy. |
+| `corpus/cra/tax/technical-information/income-tax/current-publications/` | Income tax folios, information circulars, interpretation bulletins, and income tax technical news. | Higher-authority technical guidance for income tax interpretation and professional research workflows. | Many interpretation bulletins and technical news items are archived. Keep `archived` visible in citations and filters. |
+| `corpus/cra/tax/technical-information/compliance-manuals-policies/` | CRA audit and compliance manuals. | Useful for audit-process, risk, documentation, and procedural questions. | Manuals describe CRA administrative practice; they are not a substitute for the statute, regulations, or current CRA positions. |
+| `corpus/cra/multimedia/` | Video and webinar transcripts from CRA business, individual, and charity galleries. | Plain-language explanations, examples, and outreach content that can improve answer accessibility. | Lower authority for technical answers. Prefer it for explainers, not as the final authority on complex tax interpretation. |
+| `corpus/manifests/` | Metadata inventories for the canonical Markdown corpus. | Lets you filter by source family, document type, archive status, source URL, and path before ingestion. | Manifest rows are only as complete as the public page metadata captured during conversion. |
+| `exports/flat-md/` | One Markdown file per document with path-derived filenames. | Best for upload UIs that accept many files but do not preserve nested folders. | Filenames are long because they preserve provenance. Use the manifest to map them back to source paths. |
+| `exports/flat-txt/` | Plain-text versions of the same documents. | Useful when a product rejects Markdown or handles `.txt` more reliably. | Loses some Markdown structure compared with `flat-md/`. |
+| `exports/documents.jsonl` | One JSON object per document with metadata and full Markdown text. | Best input for production ingestion scripts, batch ETL, content analysis, and reproducible indexing. | Large enough that some no-code tools will not ingest it directly; stream it row by row. |
+| `exports/documents.csv` | Metadata-only inventory. | Spreadsheet-friendly audit, filtering, sampling, and ingestion tracking. | Does not include full document text. |
+
+## What The Files Tell You
+
+Most Markdown files start with front matter and source headers. The manifest
+normalizes the same ideas into fields:
+
+- `source`: original Canada.ca page to cite in generated answers.
+- `corpus_path`: canonical nested Markdown path inside this repo.
+- `source_family`: crawl family such as `cra_income_tax_current_publications`
+  or `cra_forms_publications`.
+- `document_type`: broad type: `publication`, `technical_publication`,
+  `manual`, or `video_transcript`.
+- `archived`: inferred archive status. Use this for filtering and warnings.
+- `last_modified`: source-page modified date when captured.
+- `title`, `language`, `bytes`, and `text`: display, filtering, sizing, and
+  ingestion fields.
+
+Useful information in this corpus includes headings, definitions, examples,
+rates, administrative procedures, eligibility rules, filing/remittance steps,
+CRA explanatory language, source URLs, and archive/current signals. Less useful
+information includes navigation residue, page chrome, repeated boilerplate,
+catalogue wrapper pages, and generic contact/service text. Those pieces can
+still help provenance, but they should usually receive lower retrieval weight
+than substantive publication sections.
+
+## Content Analysis Uses
+
+The corpus is useful beyond direct RAG ingestion:
+
+- Coverage analysis: count documents by `source_family`, `document_type`, or
+  `archived` to see which tax areas are represented.
+- Authority analysis: compare answers retrieved from manuals, technical
+  publications, general publications, and transcripts.
+- Change monitoring: use `source`, `last_modified`, and stable paths to refresh
+  or diff specific public documents over time.
+- Chunk-quality evaluation: sample long guides, tables, archived bulletins, and
+  transcripts separately because they behave differently in retrieval.
+- Domain vocabulary mining: extract recurring headings, defined terms, forms,
+  program names, and tax concepts for query expansion or ontology work.
+- Citation QA: verify every answer can trace back to Canada.ca through
+  `source`, not merely to this converted repository.
+
+For technical tax answering, a useful default ranking is: current technical
+publications and manuals first, broad forms/publications next, multimedia
+transcripts last unless the user asks for a plain-language explanation.
 
 ## RAG Usage
 
@@ -87,48 +148,11 @@ Recommended dataset split for production indexes:
 .
 |-- corpus/                 # Canonical raw Markdown corpus and manifests
 |-- exports/                # Flat and JSONL ingestion-friendly exports
-|-- data/                   # Original manual conversions used as staging inputs
 |-- docs/
-|   |-- RAG_USAGE.md
-|   `-- cra/                # Scrape outputs and crawl notes
-|-- scripts/                # Scrapers and corpus/export builder
-|-- src/taxsmith/           # Retrieval/workflow prototype
-|-- tests/
+|   `-- RAG_USAGE.md        # RAG loading, chunking, and citation notes
+|-- CITATION.cff            # Machine-readable citation metadata
 `-- README.md
 ```
-
-## Refreshing The Corpus
-
-After rerunning any scraper, regenerate the user-facing layout:
-
-```bash
-python3 scripts/build_corpus_layout.py
-```
-
-The builder creates:
-
-- `corpus/cra/**/*.md`
-- `corpus/manifests/documents.jsonl`
-- `corpus/manifests/documents.csv`
-- `exports/flat-md/*.md`
-- `exports/flat-txt/*.txt`
-- `exports/documents.jsonl`
-
-It refuses to overwrite an existing `corpus/` or `exports/` directory unless
-that directory has the generator marker, so accidental hand-edited corpus data is
-not silently replaced.
-
-## Retrieval Prototype
-
-The core engine is deliberately separated from any agent framework:
-
-- `taxsmith.schemas`: canonical source, citation, query, and retrieval data structures.
-- `taxsmith.workflow_contracts`: deterministic practitioner workflows that require specific source checks.
-- `taxsmith.retrieval`: retrieval interfaces and authority ranking helpers.
-- `taxsmith.orchestrator`: orchestration boundary where LangGraph can later coordinate the workflow.
-
-LangGraph is planned for orchestration, not for search itself. The search layer
-should remain independently testable.
 
 ## Source And Reuse Notes
 
@@ -143,7 +167,7 @@ redistribution and may exclude third-party copyrighted content.
 
 ## Citation And Attribution
 
-If you use this corpus, manifests, exports, scraper output, or derived chunks in
+If you use this corpus, manifests, exports, or derived chunks in
 academic work, benchmarks, model training, model evaluation, internal tools,
 commercial RAG systems, or customer-facing products, cite this repository and
 preserve the original Canada.ca source URLs in downstream citations.

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this corpus, manifests, exports, scraper output, or derived chunks in academic work, benchmarks, model training, model evaluation, internal tools, commercial RAG systems, or customer-facing products, please cite this repository and preserve the original Canada.ca source URLs."
+message: "If you use this corpus, manifests, exports, or derived chunks in academic work, benchmarks, model training, model evaluation, internal tools, commercial RAG systems, or customer-facing products, please cite this repository and preserve the original Canada.ca source URLs."
 title: "Taxsmith Canadian Tax Corpus"
 type: dataset
 authors:
