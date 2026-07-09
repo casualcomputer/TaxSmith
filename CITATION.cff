@@ -3,7 +3,7 @@ message: "If you use this corpus, manifests, exports, scraper output, or derived
 title: "Taxsmith Canadian Tax Corpus"
 type: dataset
 authors:
-  - name: "Taxsmith contributors"
+  - name: "Henry Luan"
 version: "0.1.0"
 date-released: "2026-07-09"
 abstract: "A Markdown corpus and manifest set derived from public Canada Revenue Agency and Canada.ca tax publications, technical information, manuals, and multimedia transcripts for retrieval-augmented generation, agent workflows, and domain corpus research."

@@ -163,7 +163,7 @@ Suggested BibTeX, replacing `<REPO_URL>` with the canonical published URL:
 ```bibtex
 @misc{taxsmith_cra_corpus_2026,
   title        = {Taxsmith Canadian Tax Corpus: CRA Public Tax Publications in Markdown},
-  author       = {{Taxsmith contributors}},
+  author       = {Luan, Henry},
   year         = {2026},
   howpublished = {\url{<REPO_URL>}},
   note         = {Converted corpus generated from public Canada Revenue Agency and Canada.ca source materials}
